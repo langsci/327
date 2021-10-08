@@ -1,0 +1,340 @@
+abstractness
+accent
+acoustics
+acoustico- motor image
+alternation
+morpheme alternants
+automatic alternation
+categories of alternation
+causes of alternation
+alternation condition
+embryonic alternation
+incipient alternation
+morphologically conditioned alternation
+morphophonemic alternation
+neophonetic alternation
+origin of alternation
+paleophonetic alternation
+phonetic alternation
+psychophonetic alternation
+regular
+traditional alternation
+analogy
+anthropology
+anthropophonics
+aphasia
+arbitrariness
+archiphoneme
+articulation
+coarticulation
+manner of articulation
+place of articulation
+aspiration
+assimilation
+associative relation
+syntagmatic relations
+auditory impressions
+autosegmental theory
+babbling
+base form
+basic form
+behaviorism
+bi-uniqueness
+bleeding order
+boundaries
+branching diagram
+Bureau of American Ethnology
+BAE
+cenemes
+change
+change and explanation
+historical change
+child language
+coefficients sonantiques
+combinatorial phonetics
+mathematical theory of communication
+commutation test
+competence
+concept
+consonants
+acquisition of consonants
+affricates
+consonant cluster
+consonant features
+consonantal features
+fricatives
+nasal consonant
+released consonant
+unreleased consonant
+soft consonant
+hard consonant
+stops
+syllabic consonant
+constraints
+context of situation
+contrast
+correlations
+counterfeeding order
+Cours de Linguistique Générale
+culture
+deduction
+reciprocally dependent properties
+derived form
+descriptive study
+final devoicing
+branching diagram
+distinctive features
+distinctive properties of psychological image
+complementary distribution
+defective distribution
+divergence
+drift
+empirical principle
+Hjelmslev’s Principle
+english alternations
+analogy
+explosives
+implosives
+flap
+linguistic system
+oppositions
+english plural
+english stops
+transcription
+english voicing
+english vowel length
+english vowels
+ethnography
+etymological element
+evaluation measure
+explanation
+exponent
+feature geometry
+distinctive features
+feeding order
+folk etymology
+fricatives
+minor function
+major function
+functional phonetics
+functionalism
+geminating morphemes
+generative grammar
+generalization condition true
+glossematic theory
+glossemes
+grids
+Grundzüge der Phonologie
+historical change
+incipient alternation
+induction vs. deduction
+inductive procedures
+information theory
+International Congress of Linguists
+First International Congress of Linguists
+Second International Congress of Linguists
+Fourth International Congress of Linguists
+Ninth International Congress of Linguists
+Second International Congress of Phonetic Sciences
+International Congress of Slavists
+International Phonological Association
+intuitionism
+invariant
+item and process
+item and arrangement
+junctures
+Kazan School
+labiovelarization
+laboratory phonology
+An Introduction to the Study of Language
+langue
+laryngeals
+euphonic laws
+Leipzig
+levels
+Linguistic Circle of Copenhagen
+Linguistic Circle of Moscow
+Linguistic Circle of New York
+Linguistic Circle of Prague
+linguistic description
+Linguistic Institute
+Linguistic Society of America
+Linguistic Society of Paris
+linguistic system
+London School of Prosodic Analysis
+long component
+major function
+markedness
+mathematical theory of communication
+mathematics
+meaning
+mechanism
+memoire
+mentalism
+mechanism
+metrical phonology
+minor function
+mixing levels
+morpheme alternants
+morphoneme
+morphophonemics
+morphophonology
+moscow dialectological commission
+nasal consonants
+nasal vowels
+nasalizing
+natural class
+Natural Generative Phonology
+naturalness
+Natural Phonology
+neogrammarians
+neophonetic alternation
+nests
+neutralization
+absolute neutralization
+nineteenth-century linguistics
+nominalism
+ideal notation
+actualized notation
+notational conventions
+notational system
+nucleus
+ontogeny recapitulates phytogeny
+opacity
+Optimality Theory
+oppositions
+organic elements
+orthography
+overlapping
+palatalization
+palatography
+paradigmatic relations
+parole
+pattern congruity
+performance
+phonematemes
+phonematic units
+phoneme
+phonemic principle
+phonemic analysis vs. prosodic analysis
+phonemic theory
+fully specified basic variant
+fully specified surface variant
+incompletely specified set of variants
+phonetics and morphology
+combinatorial phonetics
+phonology vs. phonetics
+phonetic representations
+phonétique 36-47
+phonological identity
+phonological system
+phonologie
+phonologization
+phonology vs. phonetics
+phonotactics
+plane of expression
+plane of content
+pleremes
+polysystemic approach
+Prague School
+predictability
+principia mathematica
+prosodeme
+prosodic analysis
+psychological basis of language
+psychological interpretation of langue
+psychological nature of the phoneme
+psychophonetic alternation
+pull chain
+purport
+push chain
+redundancy
+reduplication
+regularities
+representations
+lexical representations
+metrical morpho-phonemic representations
+phonemic representations
+phonetic representations
+phonological representations
+representations vs. rules
+underlying representations
+retroflexion
+rhotacism
+rules
+lexical redundancy rules
+morpheme structure rules
+morphophonemic rules
+phonological rules
+redundancy rules
+rules vs. representations
+St. Petersburg School
+segmentation
+sets of variants
+significant
+signifié
+simplicity
+simplicity evaluation measure
+social basis of linguistic structure
+social character of langue
+sound structure
+sound change
+sound and meaning
+sound image
+speech sound
+sound pattern of english
+spe
+speech perception
+speech sound
+spiranatizing morphemes
+Sprachgebilde
+Sprachlaut
+Sprechakt
+stress
+structuralism
+substance vs. form
+suprasegmentals
+syllable
+synchronic vs. diachronic
+synchronic study
+syncretism
+syntagmatic relation
+systematic relations
+taxemes
+Texas Conferences on Problems of Linguistic Analysis
+token
+transcription
+phonemic transcription
+phonetic transcription
+narrow romic transcription
+broad romic transcription
+true generalization condition
+type/token
+theory of types
+typology
+umlaut
+underlying representation
+uniformitarianism
+universals
+variation
+voicing
+bright vowel
+dark vowel
+compact vowel
+diffuse vowel
+flat vowel
+nonflat vowel
+free vowel
+checked vowel
+grave vowel
+acute vowel
+vowel harmony
+heavy vowel
+light vowel
+vowel length
+nasal vowel
+vowel raising
+vowel reduction
+schwa
+vowel shortening
+yotization

@@ -1,0 +1,599 @@
+;; RefTeX parse info file
+;; File: /Users/sra/Dropbox/Docs/Books/P20C_2/LSP/main.tex
+;; User: sra (Stephen Anderson)
+
+(set reftex-docstruct-symbol '(
+
+
+(xr nil "\\\\\\\\\\\\")
+
+(index-tags)
+
+(is-multi t)
+
+(bibview-cache)
+
+(master-dir . "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/")
+
+(label-numbers)
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/main.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localmetadata.tex")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localmetadata.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localpackages.tex")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localpackages.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localhyphenation.tex")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localhyphenation.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localcommands.tex")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localcommands.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface.tex")
+
+(toc "toc" "  * \\lsPrefaceTitle" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface.tex" nil 1 "*" "\\addchap{\\lsPrefaceTitle}" 1)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface1.tex")
+
+(toc "toc" "  * \\lsPrefaceTitle" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface1.tex" nil 1 "*" "\\addchap{\\lsPrefaceTitle}" 1)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/preface1.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/acknowledgments.tex")
+
+(toc "toc" "  * \\lsAcknowledgementTitle" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/acknowledgments.tex" nil 1 "*" "\\addchap{\\lsAcknowledgementTitle}" 1)
+
+(toc "toc" "    * Sources of Illustrations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/acknowledgments.tex" nil 2 "*" "\\section*{Sources of Illustrations}" 849)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/acknowledgments.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex")
+
+(toc "toc" "  1 Introduction" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil 1 "1" "\\chapter{Introduction}" 26)
+
+("ch.intro" "s" "\\noindent This book is primarily concerned with the history of linguistics, but it is not simply \\em" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil)
+
+(toc "toc" "    * Why study the history of 20th century phonology?" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil 2 "*" "\\section*{Why study the history of 20th century phonology?}" 1851)
+
+(toc "toc" "    * Motivations for the present book" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil 2 "*" "\\section*{Motivations for the present book}" 21730)
+
+(toc "toc" "    * The historical origins of modern views: a concrete example" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil 2 "*" "\\section*{The historical origins of modern views: a concrete example}" 31424)
+
+(toc "toc" "    * The organization of the present book" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex" nil 2 "*" "\\section*{The organization of the present book}" 44391)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/01_intro.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex")
+
+(toc "toc" "  2 Ferdinand de Saussure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil 1 "2" "\\chapter{Ferdinand de Saussure}" 1)
+
+("ch.saussure_life" "s" "Conventional wisdom holds that the distinctive content of twentieth century linguistics can in large" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil)
+
+(toc "toc" "    2.1 Saussure's life and career" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil 2 "2.1" "\\section{Saussure's life and career}" 6967)
+
+("fig:ch.saussure_life.young_saussure" "f" "Ferdinand de Saussure as a young man" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil)
+
+("fig:ch.saussure_life.saussure_family" "f" "Ferdinand de Saussure with his wife Marie and sons Jacques [l.] and Raymond [r.]" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil)
+
+(toc "toc" "    2.2 The Saussurean view of language, languages, and linguistics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil 2 "2.2" "\\section{The Saussurean view of language, languages, and linguistics}" 26474)
+
+(toc "toc" "    2.3 The linguistic sign" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil 2 "2.3" "\\section{The linguistic sign}" 36806)
+
+("sec:linguistic-sign" "s" "As suggested above, the primary reason for distinguishing \\emph{langue} from \\emph{parole} is to all" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil)
+
+(toc "toc" "    2.4 The relation of languages to their history" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil 2 "2.4" "\\section{The relation of languages to their history}" 44005)
+
+("sec:diachrony" "s" "We come now to another of the cornerstones of the Saussurean view of language, his picture of the re" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/02_saussure_life.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex")
+
+(toc "toc" "  3 Saussure's View of Sound Structure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 1 "3" "\\chapter{Saussure's View of Sound Structure}" 1)
+
+("ch.saussure_sound" "s" "There is a decided lack of concrete evidence to be found in Saussure's own work for the way one ough" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil)
+
+("fig:ch.saussure_sound.saussure" "f" "Ferdinand de Saussure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil)
+
+(toc "toc" "    3.1 Sounds, sound images, and their study" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.1" "\\section{Sounds, sound images, and their study}" 4231)
+
+(toc "toc" "    3.2 `\\textit{Phonèmes}' and `phonetic species'" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.2" "\\section{`\\textit{Phonèmes}' and `phonetic species'}" 16576)
+
+(toc "toc" "    3.3 The linguistic representation of \\textit{signifiants}" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.3" "\\section{The linguistic representation of \\textit{signifiants}}" 26150)
+
+(toc "toc" "    3.4 Some approaches to the study of phonological differences" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.4" "\\section{Some approaches to the study of phonological differences}" 35494)
+
+(toc "toc" "    3.5 Saussure's description of alternations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.5" "\\section{Saussure's description of alternations}" 58002)
+
+(toc "toc" "    3.6 Saussure and the phonological tradition" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex" nil 2 "3.6" "\\section{Saussure and the phonological tradition}" 75195)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/03_saussure_2.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex")
+
+(toc "toc" "  4 The Kazan School: Baudouin de Courtenay" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 1 "4" "\\chapter{The Kazan School: Baudouin de Courtenay}" 1)
+
+("ch.kazan" "s" "A number of years before Saussure began to occupy himself seriously with questions of general lingui" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+(toc "toc" "    4.1 Biographical remarks" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.1" "\\section{Biographical remarks}" 4618)
+
+("fig:ch.kazan_baudouin" "f" "Jan Niecisław Baudouin de Courtenay" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+("fig:ch.kazan_kruszewski" "f" "Mikołaj Kruszewski" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+(toc "toc" "    4.2 The study of sound systems in the Kazan school" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.2" "\\section{The study of sound systems in the Kazan school}" 17140)
+
+(toc "toc" "    4.3 The nature of phonological structure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.3" "\\section{The nature of phonological structure}" 30115)
+
+("sec:nature-phon-struct" "s" "Baudouin distinguishes two aspects of the study of synchronic language systems: the \\emph{physical} " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+(toc "toc" "    4.4 Kruszewski's theory of alternations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.4" "\\section{Kruszewski's theory of alternations}" 42928)
+
+(toc "toc" "    4.5 Baudouin's development of the theory of alternations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.5" "\\section{Baudouin's development of the theory of alternations}" 56476)
+
+("tab:spanish-l-pattern" "t" "Spanish verb forms" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+(toc "toc" "    4.6 The later history of `Kazan phonology'" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil 2 "4.6" "\\section{The later history of `Kazan phonology'}" 76849)
+
+("fig:ch.kazan_scerba" "f" "Lev Vladimiovič Ščerba" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/04_kazan.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex")
+
+(toc "toc" "  5 From the Moscow Circle to the Prague School and Trubetzkoy's \\emph{Grundzüge}" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 1 "5" "\\chapter{From the Moscow Circle to the Prague School and
+  Trubetzkoy's \\emph{Grundzüge}}" 1)
+
+("ch.prague" "s" "Work in phonology continued among Baudouin's students such as Lev Ščerba and Yevgeny Polivanov (1891" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(toc "toc" "    5.1 The background of the Prague Circle and the life of Trubetzkoy" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.1" "\\section{The background of the Prague Circle and the life of
+  Trubetzkoy}" 3620)
+
+("sec:backgr-prag-circle" "s" "The Moscow Linguistic Circle was founded in 1915 by a group of seven young Russian linguists, ``havi" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+("fig:ch.prague_jakobson_1916" "f" "Roman Jakobson in 1916" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+("fig:ch.prague_trubetzkoy_younger" "f" "Prince Nikolai Sergeievič Trubetzkoy (1927)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+("fig:ch.prague_trubetzkoy_prague_circle" "f" "Detail from the 1930 International Phonology Meeting" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(toc "toc" "    5.2 Units in phonological analysis" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.2" "\\section{Units in phonological analysis}" 28546)
+
+("sec:units-phon-analysis" "s" "Although it had become clear to most linguists by the 1920s that something besides careful phonetic " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+("fig:ch.prague_trubetzkoy_1939" "f" "Prince Nikolai Sergeievič Trubetzkoy" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(toc "toc" "    5.3 The structure of phonological systems" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.3" "\\section{The structure of phonological systems}" 46477)
+
+("sec:structure-of-systems" "s" "While phonemic systems are founded in Trubetzkoy's view on physical properties of the sounds that re" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil "")
+
+(toc "toc" "    5.4 Suprasegmental properties" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.4" "\\section{Suprasegmental properties}" 59998)
+
+("fig:ch.prague_silbenschnitt" "f" "păs `very' \\emph{vs.} pas `field' \\emph{vs.} pās `calm' in Hopi" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(toc "toc" "    5.5 Neutralization, archiphonemes, and markedness" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.5" "\\section{Neutralization, archiphonemes, and markedness}" 78662)
+
+("sec:neutralization" "s" "We return now to the formal (rather than substantive) nature of the phonological theory presented in" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+("fig:ch.prague_voicing" "f" "Russian voicing assimilation using archiphonemes" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(toc "toc" "    5.6 Morpho(pho)nology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil 2 "5.6" "\\section{Morpho(pho)nology}" 97918)
+
+("fig:ch.prague_trubetzkoy" "f" "Prince Nikolai Sergeievič Trubetzkoy" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/05_prague.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex")
+
+(toc "toc" "  6 Roman Jakobson and the Theory of Distinctive Features" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 1 "6" "\\chapter{Roman Jakobson and the Theory of Distinctive Features}" 1)
+
+("ch.jakobson" "s" "During his years in Czechoslovakia, and especially in the thirties, Jakobson's views on phonology we" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil)
+
+("fig:ch.jakobson_jakobson_1920" "f" "Roman Jakobson in 1920" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil)
+
+(toc "toc" "    6.1 Origins of the distinctive feature theory" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 2 "6.1" "\\section{Origins of the distinctive feature theory}" 5590)
+
+(toc "toc" "    6.2 Developing the theory of distinctive features" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 2 "6.2" "\\section{Developing the theory of distinctive features}" 14811)
+
+(toc "toc" "    6.3 The adequacy of Jakobson's distinctive features" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 2 "6.3" "\\section{The adequacy of Jakobson's distinctive features}" 26662)
+
+(toc "toc" "    6.4 \\textsl{Kindersprache, Aphasie und allgemeine Lautgesteze}" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 2 "6.4" "\\section{\\textsl{Kindersprache, Aphasie und allgemeine Lautgesteze}}" 44470)
+
+("fig:ch.jakobson_jakobson_levi-strauss" "f" "Roman Jakobson and Claude Levi-Strauss (1972)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil)
+
+(toc "toc" "    6.5 Information theory and Jakobson's legacy" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil 2 "6.5" "\\section{Information theory and Jakobson's legacy}" 63007)
+
+("fig:ch.jakobson_jakobson_lsa" "f" "Roman Jakobson in later years" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/06_jakobson.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex")
+
+(toc "toc" "  7 Structural Linguistics in Copenhagen: Louis Hjelmslev and his Circle" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 1 "7" "\\chapter{Structural Linguistics in Copenhagen: Louis Hjelmslev and his
+  Circle}" 1)
+
+("ch.hjelmslev" "s" "Until the 1960s or so, many American linguists held a somewhat caricatural picture of the difference" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(toc "toc" "    7.1 Hjelmslev's life and career" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.1" "\\section{Hjelmslev's life and career}" 7689)
+
+("fig:ch.hjelmslev.young_hjelmslev" "f" "Louis Trolle Hjelmslev as a young MA" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:ch.hjelmslev.uldall-hjelmslev" "f" "Hans Jørgen Uldall and Louis Hjelmslev" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(toc "toc" "    7.2 Hjelmslev's notion of an `immanent' Linguistics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.2" "\\section{Hjelmslev's notion of an `immanent' Linguistics}" 26655)
+
+(toc "toc" "    7.3 Basic terms of glossematic analysis" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.3" "\\section{Basic terms of glossematic analysis}" 37106)
+
+("fig:ch.hjelmslev.hjelmslev2" "f" "Louis Hjelmslev" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(toc "toc" "    7.4 Hjelmslev's approach to the description of sound structure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.4" "\\section{Hjelmslev's approach to the description of sound structure}" 51936)
+
+("fig:ch.hjelmslev.hjelmslev3" "f" "Louis Hjelmslev" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:glossematic.description" "f" "Components of a glossematic description: German \\emph{Bund}" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(toc "toc" "    7.5 The role of simplicity in a glossematic description" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.5" "\\section{The role of simplicity in a glossematic description}" 70818)
+
+(toc "toc" "    7.6 Nonsegmental structure in glossematic phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.6" "\\section{Nonsegmental structure in glossematic phonology}" 87593)
+
+("sec:nonseg-struct" "s" "\\begin{wrapfigure}{l}{.35\\textwidth} \\includegraphics[width=.9\\textwidth]{figures/Hjelmslev.jpg} \\ca" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:ch.hjelmslev.hjelmslev" "f" "Louis Hjelmslev" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(toc "toc" "    7.7 Eli Fischer-Jørgensen" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil 2 "7.7" "\\section{Eli Fischer-Jørgensen}" 97614)
+
+("sec:eli" "s" "There is mild irony in the fact that following Hjelmslev's insistence that the fundamental questions" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:ch.hjelmslev.efj-young" "f" "Eli Fischer-Jørgensen (1949)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:ch.hjelmslev.efj" "f" "Eli Fischer-Jørgensen (1968)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+("fig:ch.hjelmslev.efj_lab" "f" "Eli Fischer-Jørgensen in the Phonetics Lab (1981)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07_hjelmslev.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex")
+
+(toc "toc" "  8 Martinet and Functional Phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil 1 "8" "\\chapter{Martinet and Functional Phonology}" 1)
+
+("ch.martinet" "s" "If we take the views of the Prague School linguists (chapter~\\ref{ch.prague}) to represent the core " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+(toc "toc" "    8.1 Martinet's Life and Career" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil 2 "8.1" "\\section{Martinet's Life and Career}" 1068)
+
+("sec:martinet-life" "s" "André Martinet was born in Saint-Alban-des-Villards, in Savoy (France) on 12 April 1908.\\footnote{\\p" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+("fig:ch.martinet.martinet0" "f" "André Martinet" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+(toc "toc" "    8.2 Phonology as Functional Phonetics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil 2 "8.2" "\\section{Phonology as Functional Phonetics}" 15175)
+
+("sec:functional-phonetics" "s" "\\begin{wrapfigure}{r}{.35\\textwidth} \\includegraphics[width=.9\\textwidth]{figures/martinet-2.jpg} \\c" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+("fig:ch.martinet.martinet2" "f" "André Martinet" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+(toc "toc" "    8.3 Phonological Factors in Linguistic Change" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil 2 "8.3" "\\section{Phonological Factors in Linguistic Change}" 17080)
+
+("sec:economie" "s" "\\begin{wrapfigure}{l}{.3\\textwidth} \\includegraphics[width=.9\\textwidth]{figures/martinet-3.jpg} \\ca" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+("fig:ch.martinet.martinet3" "f" "André Martinet" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/07a_martinet.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex")
+
+(toc "toc" "  9 British Linguistics and Firthian Prosodic Analysis" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 1 "9" "\\chapter{British Linguistics and Firthian Prosodic Analysis}" 1)
+
+("ch.firth" "s" "Preceding chapters have been concerned with the development of phonological theory in continental Eu" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+(toc "toc" "    9.1 Henry Sweet, Daniel Jones, and the British phonetic tradition" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 2 "9.1" "\\section{Henry Sweet, Daniel Jones, and the British phonetic tradition}" 9272)
+
+("fig:ch.firth.sweet" "f" "Henry Sweet" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+("fig:ch.firth.jones1" "f" "Daniel Jones" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+("fig:ch.firth.jones2" "f" "Daniel Jones" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+("fig:ch.firth.icphs_1935" "f" "From the 1935 London ICPhS: Louis Hjelmslev (standing, top middle); Otto Jespersen (seated, left); D" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+("fig:ch.firth:firth-abercrombie-jones" "f" " " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+(toc "toc" "    9.2 J. R. Firth's life" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 2 "9.2" "\\section{J. R. Firth's life}" 28937)
+
+("fig:ch.firth.firth_soas" "f" "John Rupert Firth" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+(toc "toc" "    9.3 The Firthian view of language and linguistics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 2 "9.3" "\\section{The Firthian view of language and linguistics}" 41724)
+
+(toc "toc" "    9.4 Systems and structures, sounds and prosodies" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 2 "9.4" "\\section{Systems and structures, sounds and prosodies}" 53308)
+
+("fig:ch.firth.firth_wiki" "f" "John Rupert Firth" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil)
+
+(toc "toc" "    9.5 Relations between prosodic and other approaches to phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex" nil 2 "9.5" "\\section{Relations between prosodic and other approaches to phonology}" 72820)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/08_firth.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex")
+
+(toc "toc" "  10 Franz Boas and the Beginnings of American Linguistics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 1 "10" "\\chapter{Franz Boas and the Beginnings of American Linguistics}" 1)
+
+("ch.boas" "s" "In this chapter we return to the beginning of the period under consideration to consider the develop" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(toc "toc" "    10.1 William Dwight Whitney" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.1" "\\section{William Dwight Whitney}" 1502)
+
+("fig:ch.boas.young_whitney" "f" "William Dwight Whitney (1858)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+("fig:ch.boas.whitney_painting" "f" "William Dwight Whitney" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(toc "toc" "    10.2 Early work on American Indian languages" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.2" "\\section{Early work on American Indian languages}" 9163)
+
+("fig:ch.boas.powell" "f" "John Wesley Powell" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(toc "toc" "    10.3 Franz Boas" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.3" "\\section{Franz Boas}" 13963)
+
+("fig:ch.boas.boas_student" "f" "Franz Boas as a student [1881]" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+("fig:ch.boas.hunt_family" "f" "Boas with George Hunt family 1894 [Back row, left to right: Sam Hunt, George Hunt, Mary Ebbetts Hunt" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(toc "toc" "    10.4 Linguistic theory and Boas's \\textsl{Handbook}" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.4" "\\section{Linguistic theory and Boas's \\textsl{Handbook}}" 28446)
+
+(toc "toc" "    10.5 Boas's views of phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.5" "\\section{Boas's views of phonology}" 38659)
+
+("fig:ch.boas.boas_1924" "f" "Franz Boas with his wife and daughter at the 21st International Congress of Americanists, The Hague," "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+("fig:ch.boas.hunt_tsukwani" "f" "George Hunt and Tsukwani (Tsax̠is, 1930) " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(toc "toc" "    10.6 Representations and rules in Boas's descriptions" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.6" "\\section{Representations and rules in Boas's descriptions}" 55109)
+
+(toc "toc" "    10.7 Abstractness in Boas's phonological practice" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil 2 "10.7" "\\section{Abstractness in Boas's phonological practice}" 68412)
+
+("fig:ch.boas.boas" "f" "Franz Boas (1912)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/09_boas.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex")
+
+(toc "toc" "  11 Edward Sapir" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 1 "11" "\\chapter{Edward Sapir}" 1)
+
+("ch.sapir" "s" "As observed in the preceding chapter, Boas continued to play a leading role in the development of Am" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+(toc "toc" "    11.1 Sapir's life" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.1" "\\section{Sapir's life}" 1784)
+
+("fig:ch.sapir.tillohash" "f" "Tony Tillohash, Kaibab Paiute Indian, in his Carlisle School Uniform" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+("fig:ch.sapir.sapir_1913" "f" "Edward Sapir (1913)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+("fig:ch.sapir.sapir_1925" "f" "Edward Sapir (1925)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+("fig:ch.sapir.haas_cat" "f" "Mary Haas and cat" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+("fig:ch.sapir.swadesh_army" "f" "Morris Swadesh" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+(toc "toc" "    11.2 Sapir's view of the nature of language" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.2" "\\section{Sapir's view of the nature of language}" 22806)
+
+(toc "toc" "    11.3 Sapir's conception of phonological structure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.3" "\\section{Sapir's conception of phonological structure}" 44056)
+
+("fig:ch.sapir.sapir_stock" "f" "Edward Sapir (ca. 1930)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+(toc "toc" "    11.4 Sapir's descriptive practice in phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.4" "\\section{Sapir's descriptive practice in phonology}" 58641)
+
+("fig:ch.sapir.sapir_1937" "f" "Edward Sapir (1937)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+(toc "toc" "    11.5 Rules and their interactions in Sapir's phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.5" "\\section{Rules and their interactions in Sapir's phonology}" 73605)
+
+(toc "toc" "    11.6 The relation between rules and representations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "11.6" "\\section{The relation between rules and representations}" 84029)
+
+("fig:ch.sapir.sapir_yale" "f" "Edward Sapir (ca. 1938)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+("fig:ch.sapir.sapir_utes" "f" "Edward Sapir (1909) {[In glasses, with group at Mrs. Dodd's, Uintah Ute Reservation, White Rock, Uta" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil)
+
+(toc "toc" "       * APPENDIX: Abstractness and Sapir's analysis of Southern Paiute" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex" nil 2 "   *" "\\section*{APPENDIX: Abstractness and Sapir's analysis of Southern
+  Paiute}" 97236)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/10_sapir.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex")
+
+(toc "toc" "  12 Leonard Bloomfield" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 1 "12" "\\chapter{Leonard Bloomfield}" 1)
+
+("ch.bloomfield" "s" "Few figures in the history of linguistics stand out so dramatically as incarnations of their time an" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+(toc "toc" "    12.1 Bloomfield's life and career" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.1" "\\section{Bloomfield's life and career}" 5398)
+
+("fig:ch.bloomfield.bloomfield_1924" "f" "Leonard Bloomfield at the International Congress of Americanists, The Hague, 1924 (Alice Bloomfield " "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+("fig:ch.bloomfield.bloomfield_1944" "f" "Leonard Bloomfield (1944)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+("fig:ch.bloomfield.haas_aps" "f" "Mary Haas" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+(toc "toc" "    12.2 Bloomfield's view of language, linguistics, and psychology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.2" "\\section{Bloomfield's view of language, linguistics, and psychology}" 18479)
+
+(toc "toc" "    12.3 Bloomfield's conception of the phoneme" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.3" "\\section{Bloomfield's conception of the phoneme}" 35529)
+
+(toc "toc" "    12.4 Representations in Bloomfield's phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.4" "\\section{Representations in Bloomfield's phonology}" 47700)
+
+("sec:bloomfield-representations" "s" "Given the system of phonemes of a language, we are in a position to record utterances in it. To do t" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil "")
+
+(toc "toc" "    12.5 The `abstractness' of phonemic representations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.5" "\\section{The `abstractness' of phonemic representations}" 60823)
+
+(toc "toc" "    12.6 Morphophonemics and the description of alternations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil 2 "12.6" "\\section{Morphophonemics and the description of alternations}" 74301)
+
+("sec:bloomfield.morphophonemics" "s" "\\begin{wrapfigure}{r}{.35\\textwidth} \\includegraphics[width=.95\\textwidth]{figures/bloomfield_standi" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+("fig:ch.bloomfield.bloomfield_standing" "f" "Leonard Bloomfield in Chicago" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/11_bloomfield.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex")
+
+(toc "toc" "  13 American Structuralist Phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 1 "13" "\\chapter{American Structuralist Phonology}" 1)
+
+("ch.structuralists" "s" "The present chapter discusses phonology in America between the appearance of Bloomfield's \\textsl{La" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.1 Some prominent American structuralists" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.1" "\\section{Some prominent American structuralists}" 661)
+
+("fig:ch.structuralists.smith" "f" "Henry Lee Smith" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.nida" "f" "Eugene Nida" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.2 The American structuralist view of language" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.2" "\\section{The American structuralist view of language}" 11471)
+
+("fig:ch.structuralists.joos" "f" "Martin Joos" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.joos-phonetics" "f" "Martin Joos engaged in early acoustic phonetic research" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.3 Initial formulations of the notion of `phoneme'" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.3" "\\section{Initial formulations of the notion of `phoneme'}" 30652)
+
+("fig:ch.structuralists.trager" "f" "George Trager" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.swadesh" "f" "Morris Swadesh" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.4 Twaddell's ``On Defining the Phoneme''" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.4" "\\section{Twaddell's ``On Defining the Phoneme''}" 45636)
+
+("sec:twaddell" "s" "Already by the mid-1930s, then, two distinct conceptions of the nature of the phoneme had emerged wi" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.twaddell" "f" "W. Freeman Twaddell" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.5 Subsequent developments in structuralist phonemics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.5" "\\section{Subsequent developments in structuralist phonemics}" 63996)
+
+("sec:structuralists.subsequent" "s" "Most of the discussion of the nature of the phoneme in the American structuralist literature was con" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.bloch" "f" "Bernard Bloch" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.hockett" "f" "Charles Hockett" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.pike" "f" "Kenneth Pike" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.6 American structuralist morphophonemics" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.6" "\\section{American structuralist morphophonemics}" 82084)
+
+("sec:struct-morphophonemics" "s" "The history of morphophonemic description within American structuralism is a somewhat uneasy one. Fa" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.harris" "f" "Zellig Harris" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(toc "toc" "    13.7 Rule interactions and the nature of descriptions" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil 2 "13.7" "\\section{Rule interactions and the nature of descriptions}" 102417)
+
+("fig:ch.structuralists.sapir_harris" "f" "Edward Sapir (left) and Zellig Harris (New Haven, ca. 1937)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+("fig:ch.structuralists.wells" "f" "Rulon Wells" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/12_structuralists.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex")
+
+(toc "toc" "  14 Generative Phonology and its Origins" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil 1 "14" "\\chapter{Generative Phonology and its Origins}" 1)
+
+("ch.genphon" "s" "In this chapter, I consider the background and initial progress of generative phonology from the mid" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+(toc "toc" "    14.1 The decline and fall of American structuralism" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil 2 "14.1" "\\section{The decline and fall of American structuralism}" 2690)
+
+("sec:decline-fall" "s" "The history of the rise of generative grammar (and of generative phonology in particular) is in larg" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+(toc "toc" "    14.2 The emergence of generative phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil 2 "14.2" "\\section{The emergence of generative phonology}" 14849)
+
+("sec:emergence" "s" "By the late 1950s, then, the conceptual underpinnings of American structuralism were seriously weake" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+("fig:ch.genphon.chomsky_1950s" "f" "Noam Chomsky (1950s)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+(toc "toc" "    14.3 Morris Halle and the bases of generative phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil 2 "14.3" "\\section{Morris Halle and the bases of generative
+  phonology}" 27862)
+
+("fig:ch.genphon.halle_1960s" "f" "Morris Halle (1950s)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+("fig:ch.genphon.jakobson_fant_halle" "f" "Jakobson, Fant and Halle (ca. 1970)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+(toc "toc" "    14.4 The antecedents of generative phonological theory" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil 2 "14.4" "\\section{The antecedents of generative phonological theory}" 67512)
+
+("fig:ch.genphon.kittery" "f" "Morris Halle and Noam Chomsky (1953)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+("fig:ch.genphon.morris-roman" "f" "Morris Halle and Roman Jakobson" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/13_genphon.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex")
+
+(toc "toc" "  15 The \\textsl{Sound Pattern of English} and its Aftermath" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 1 "15" "\\chapter{The \\textsl{Sound Pattern of English} and its Aftermath}" 1)
+
+("ch.spe" "s" "There are surely few years that are so clearly marked as watersheds in the history of phonology as 1" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+(toc "toc" "    15.1 The nature of the \\textsl{SPE} program" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 2 "15.1" "\\section{The nature of the \\textsl{SPE} program}" 3086)
+
+("fig:ch.spe.morrisnoam50" "f" "Morris Halle and Noam Chomsky (2011 (1988 (1953)))" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+(toc "toc" "    15.2 The problem of phonetic content within the \\textsl{SPE} theory" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 2 "15.2" "\\section{The problem of phonetic content within the \\textsl{SPE} theory}" 10232)
+
+(toc "toc" "    15.3 How abstract are phonological representations?" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 2 "15.3" "\\section{How abstract are phonological representations?}" 26901)
+
+("sec:abstractness" "s" "\\begin{wrapfigure}{l}{.35\\textwidth} \\includegraphics[width=.9\\textwidth]{figures/kiparsky.jpg} \\cap" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+("fig:ch.spe.kiparsky" "f" "Paul Kiparsky" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+(toc "toc" "    15.4 Constraining representations: `Natural Generative Phonology'" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 2 "15.4" "\\section{Constraining representations: `Natural Generative Phonology'}" 37440)
+
+("sec:ngp" "s" "For some, the recognition that \\textsl{SPE} analyses could involve unrealistically abstract relation" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+("fig:ch.spe.bybee" "f" "Joan Bybee [Hooper]" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+(toc "toc" "    15.5 Constraining rules: Natural phonology" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil 2 "15.5" "\\section{Constraining rules: Natural phonology}" 48755)
+
+("fig:ch.spe.donegan-stampe" "f" "Patricia Donegan and David Stampe" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+("fig:ch.spe:hallechomsky" "f" "Morris Halle and Noam Chomsky over the years" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/14_spe.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex")
+
+(toc "toc" "  16 Toward a New Millennium" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 1 "16" "\\chapter{Toward a New Millennium}" 1)
+
+("ch.otlabphon" "s" "The period covered in chapters~\\ref{ch.genphon} and~\\ref{ch.spe} above, from the 1950s through the e" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+("fig:lsa.membership" "f" "LSA Membership 1925--1990" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "    16.1 A Focus on Representations" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 2 "16.1" "\\section{A Focus on Representations}" 4377)
+
+("sec:representations" "s" "This found its expression in the re-orientation of phonological research over the next two decades f" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "      16.1.1 Metrical Phonology and Structure Above the Segment" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 3 "16.1.1" "\\subsection{Metrical Phonology and Structure Above the Segment}" 6036)
+
+("sec:smetrical-phon" "s" "One of the earliest successes of (what would become) the generative approach to phonology was the el" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+("fig:ch.otlabphon.liberman" "f" "Mark Liberman" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+("fig:ch.otlabphon.prince" "f" "Alan Prince" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "      16.1.2 Autosegmental Phonology and Structure Within the Segment" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 3 "16.1.2" "\\subsection{Autosegmental Phonology and Structure Within the Segment}" 12374)
+
+("sec:autosegmental" "s" "The new perspective on stress and other prosodic systems provided by the richer notions of structure" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+("fig:ch.otlabphon.goldsmith" "f" "John Goldsmith (1978)" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "    16.2 The Rise of Optimality Theory" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 2 "16.2" "\\section{The Rise of Optimality Theory}" 22501)
+
+("sec:rise-ot" "s" "During the 1980s, a a great deal of artificial intelligence research within the computer science com" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+("fig:ch.otlabphon.smolensky" "f" "Paul Smolensky" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "    16.3 An Alternative View: The Laboratory Phonology Movement" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 2 "16.3" "\\section{An Alternative View: The Laboratory Phonology Movement}" 31698)
+
+("sec:labphon" "s" "Although differing in many essentials from preceding phonological theories, OT can be seen as essent" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(toc "toc" "    16.4 Conclusion" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil 2 "16.4" "\\section{Conclusion}" 38651)
+
+("sec:conclusion" "s" "In the developments reviewed above over more than a century, we can find a considerable amount of pr" "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex" nil)
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/chapters/15_otlabphon.tex")
+
+(bof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/backmatter.tex")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/backmatter.tex")
+
+(bib "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/localbibliography.bib")
+
+(eof "/Users/sra/Dropbox/Docs/Books/P20C_2/LSP/main.tex")
+))
+
